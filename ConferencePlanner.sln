@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "BackEnd\BackEnd.csproj", "{DFECD8CF-DB54-4514-8D5F-71CC17CC9406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{001D377F-C977-42E3-917E-72BDC82A90F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceDTO", "ConferenceDTO\ConferenceDTO.csproj", "{001D377F-C977-42E3-917E-72BDC82A90F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{4FF19423-4627-46DC-9D8A-82A91814C451}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{001D377F-C977-42E3-917E-72BDC82A90F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{001D377F-C977-42E3-917E-72BDC82A90F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{001D377F-C977-42E3-917E-72BDC82A90F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF19423-4627-46DC-9D8A-82A91814C451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF19423-4627-46DC-9D8A-82A91814C451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF19423-4627-46DC-9D8A-82A91814C451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF19423-4627-46DC-9D8A-82A91814C451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
